@@ -3,7 +3,7 @@
 namespace MyProject.Tests.Unit;
 
 [TestFixture]
-public class Class1
+public class HelloTests
 {
     [Test]
     public void HelloWorld_ExpectHelloWorld()
