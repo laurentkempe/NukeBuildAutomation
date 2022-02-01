@@ -2,8 +2,5 @@
 
 public class Hello
 {
-    public string HelloWorld()
-    {
-        return "Hello, World!";
-    }
+    public string HelloWorld() => "Hello, World!";
 }

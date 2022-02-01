@@ -74,7 +74,7 @@
               "Clean",
               "Compile",
               "Restore",
-              "Test"
+              "TestWithCoverage"
             ]
           }
         },
@@ -91,7 +91,7 @@
               "Clean",
               "Compile",
               "Restore",
-              "Test"
+              "TestWithCoverage"
             ]
           }
         },
