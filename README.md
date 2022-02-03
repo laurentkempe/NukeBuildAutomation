@@ -26,19 +26,25 @@ ts entry point is `Main` which by default execute the target `Compile`
 ## Build code step 2
 
 4. Parameter which we can pass to the build
+
 ✅ Navigate to the source code IsLocalBuild
+
 ✅ Show usage of Configuration
 
 5. Solution
+
 ✅ Navigate to Solution attribute to show the options
 
 6. AbsolutePath
+
 Nice easy way to compose path
 
 7. Target
+
 A Target defines a task for your build pipeline and is put in relationship with other targets. For example, Clean runs before Restore and Compile depends on Restore.
 
 ✅ Show contextual menu on Clean
+
 ✅ Show how to run a Target from context menu with/without dependencies
 
 ## CLI / Auto-completion in PowerShell
@@ -46,15 +52,17 @@ A Target defines a task for your build pipeline and is put in relationship with 
 ✅> Code $PROFILE
 
 ✅Uncomment 
-# Nuke build
-#Register-ArgumentCompleter -Native -CommandName nuke -ScriptBlock {
-#    param($commandName, $wordToComplete, $cursorPosition)
-#        nuke :complete "$wordToComplete" | ForEach-Object {
-#           [System.Management.Automation.CompletionResult]::new($_, $_, 'ParameterValue', $_)
-#        }
-#}
+
+    # Nuke build
+    #Register-ArgumentCompleter -Native -CommandName nuke -ScriptBlock {
+    #    param($commandName, $wordToComplete, $cursorPosition)
+    #        nuke :complete "$wordToComplete" | ForEach-Object {
+    #           [System.Management.Automation.CompletionResult]::new($_, $_, 'ParameterValue', $_)
+    #        }
+    #}
 
 ✅>. $PROFILE
+
 ✅ Show auto completion with tab 
 
 ## Adding a test target
