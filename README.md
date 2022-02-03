@@ -6,7 +6,7 @@ Sample [Nuke](https://github.com/nuke-build/nuke) project used for my blog post 
 
 [Online presentation](https://laurentkempe.com/presentations/dotNET%20build%20automation%20with%20NUKE/#/)
 
-# Presentation during online meetup DevApps S06 Ep04
+# Presentation during online meetup DevApps S06 Ep04 (French)
 
 https://youtu.be/o0XLGRObd4E?t=293
 
