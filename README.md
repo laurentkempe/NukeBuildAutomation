@@ -4,7 +4,7 @@ Sample [Nuke](https://github.com/nuke-build/nuke) project used for my blog post 
 
 # Online presentation
 
-[Online presentation](https://user-images.githubusercontent.com/272612/152285009-b82d7298-9a68-4b7f-8a48-6c242dbef81e.png)
+[Online presentation](https://laurentkempe.com/presentations/dotNET%20build%20automation%20with%20NUKE/#/)
 
 # Online Meetup DevApps S06 Ep04
 
